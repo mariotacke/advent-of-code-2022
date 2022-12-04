@@ -12,7 +12,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Days
 
-- [Day 1: TBD](day-01/)
+- [Day 1: Calorie Counting](day-01-calorie-counting/)
 - [Day 2: TBD](day-02/)
 - [Day 3: TBD](day-03/)
 - [Day 4: TBD](day-04/)
