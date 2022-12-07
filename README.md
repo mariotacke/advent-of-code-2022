@@ -18,7 +18,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 4: Camp Cleanup](day-04-camp-cleanup/)
 - [Day 5: Supply Stacks](day-05-supply-stacks/)
 - [Day 6: Tuning Trouble](day-06-tuning-trouble/)
-- [Day 7: TBD](day-07/)
+- [Day 7: No Space Left On Device](day-07-no-space-left-on-device/)
 - [Day 8: TBD](day-08/)
 - [Day 9: TBD](day-09/)
 - [Day 10: TBD](day-10/)
