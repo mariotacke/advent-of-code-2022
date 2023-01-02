@@ -21,7 +21,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 7: No Space Left On Device](day-07-no-space-left-on-device/)
 - [Day 8: Treetop Tree House](day-08-treetop-tree-house/)
 - [Day 9: Rope Bridge](day-09-rope-bridge/)
-- [Day 10: TBD](day-10/)
+- [Day 10: Cathode-Ray Tube](day-10-cathode-ray-tube/)
 - [Day 11: TBD](day-11/)
 - [Day 12: TBD](day-12/)
 - [Day 13: TBD](day-13/)
